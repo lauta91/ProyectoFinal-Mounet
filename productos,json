@@ -1,0 +1,6 @@
+[
+  {"nombre": "Teclado", "precio": 20, "imagen": "teclado.jpg"},
+  {"nombre": "Mouse", "precio": 15, "imagen": "mouse.jpg"},
+  {"nombre": "Monitor", "precio": 150, "imagen": "monitor.jpg"},
+  {"nombre": "Auriculares", "precio": 30, "imagen": "auriculares.jpg"}
+]
